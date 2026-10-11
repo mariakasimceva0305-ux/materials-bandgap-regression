@@ -1,0 +1,5 @@
+{
+  "same_test_predictions_after_second_full_training": true,
+  "model_selection": "catboost",
+  "runs": 2
+}
